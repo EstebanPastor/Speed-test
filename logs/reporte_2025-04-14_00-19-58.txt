@@ -1,0 +1,15 @@
+📅 Informe MANUAL de Internet - 2025-04-14 a las 00-19-58
+============================================================
+📶 USO DE RED
+  - MB Enviados   : 5717.86 MB
+  - MB Recibidos  : 42141.89 MB
+  - Paquetes Enviados : 21216989
+  - Paquetes Recibidos: 14656546
+  - Errores Entrada: 0
+  - Errores Salida : 0
+
+🚀 TEST DE VELOCIDAD
+  - Descarga (↓): 286.43 Mbps
+  - Subida   (↑): 65.94 Mbps
+  - Ping         : 7.93 ms
+============================================================
