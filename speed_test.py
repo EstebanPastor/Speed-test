@@ -1,9 +1,9 @@
-import os
-import psutil
-import schedule
-import time
 from datetime import datetime
 import speedtest
+import schedule 
+import psutil
+import time
+import os
 
 LOG_FOLDER = "logs"
 
